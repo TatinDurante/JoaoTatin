@@ -71,3 +71,10 @@
     color: var(--branco);
     text-decoration: none;
 }
+
+
+/* segunda parte do card */
+
+.estrelinhas{
+    padding: .5em 0.5em 0.5em 0;
+}
